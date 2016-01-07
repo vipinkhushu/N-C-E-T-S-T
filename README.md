@@ -1,6 +1,6 @@
-# NCETST 2015 | By [HAS Department YMCA University Of Science And Technology]
-#### Website For National Conference On Emerging Trends in Science &amp; Technology 
- [HAS Department YMCA University Of Science And Technology]: <http://www.ymcaust.ac.in/has>
+# RSTTMI 2016 | By [YMCA University Of Science And Technology]
+#### Website For National Conference On Role Of Science & Technology Towards Make In India (RSTTMI 2016)
+ [YMCA University Of Science And Technology]: <http://www.ymcaust.ac.in/>
 
 > A Event Website which provides complete details of the Conference, with online payment, paper submission features.
  
@@ -16,9 +16,8 @@
 ````
 
 #### Official Repo
-- [Repo Link](https://github.com/vipinkhushu/N-C-E-T-S-T)
+- [Repo Link](https://github.com/vipinkhushu/National-Conference-On-Role-Of-Science-Technology-Towards-Make-In-India-RSTTMI-2016)
 
-#### Social Links
-- [Facebook](#)
-- [Website](https://www.ymcaustmob.com)
+#### Official Website
+- [Website](https://www.ncrsttmi.in)
 
